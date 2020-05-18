@@ -1,0 +1,2 @@
+pandas
+https://github.com/pandas-profiling/pandas-profiling/archive/master.zip
